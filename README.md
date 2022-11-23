@@ -1,3 +1,3 @@
-# walking_tech
+# WalkingTech
 
 ![](imgs/img.jpg)
