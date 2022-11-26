@@ -8,7 +8,10 @@ Objetivos Específicos
 # 3. Solução Proposta
 
 ## 3.1. Arquitetura da Solução
-A solução é composta por três módulos: o celular, o módulo de hardware (ESP32-WROOM-32), e o sensor de distância, ilustrado na Figura 01.
+A solução é composta por três módulos: o celular, o módulo de hardware (ESP32-WROOM-32), e o sensor de distância, ilustrado na Figura 01. 
+O sensor capta um determinado objeto a uma distância predefinida, e esta informação é passada para o hardware (ESP32-WROOM-32), que notifica o celular de que há um objeto nas proximidades.Com isso, o mesmo emite vibrações indicado que há um objeto próximo ao usuário.
+
+![](imgs/mdls_comp.png)
 ## 3.2. Materiais e Métodos
 ## 3.2.2. O Módulo de Hardware
 # 4. Conclusões e Trabalhos Futuros
