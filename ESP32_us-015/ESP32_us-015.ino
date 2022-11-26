@@ -43,6 +43,7 @@ void loop() {
               while (client.available() > 0) {
                   char c = client.read();
                   client.write(c);
+                  //adicionar conexão com aplicação
               }
               delay(10);
           }
