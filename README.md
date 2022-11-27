@@ -45,7 +45,11 @@ HC-SR04 ultasonic distance sensor
 
 ### 3.2.2. O Módulo de Hardware
 
+
 ### 4. Conclusões e Trabalhos Futuros
+<p align="justify">
+Tendo em conta os problemas com a locomoção dos deficientes visuais, este trabalho visa desenvolver uma solução com um custo acessível para essas pessoas. Esta solução, chamada WalkingTeck, consiste num sensor para identificar a distância a objetos, um módulo para gerir os dados recebidos do sensor e enviar este sinal para o telefone para emitir alerta com vibrações.
+</p>
 
 <h2>Referências</h2>
 <p align="justify">
