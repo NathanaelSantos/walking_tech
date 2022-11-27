@@ -7,6 +7,18 @@ mover-se no espaço de forma segura e independente. Em 2010,dados do IBGE (Insti
 <p align="justify">
 Está sendo desenvolvido um algoritmo para lidar com a distância entre os objetos e a comunicação com o telefone através de Socket.
 </p>
+
+<h3>Objetivo geral</h3>
+<p align="justify">
+O objetivo geral desse trabalho é desenvolver uma solução que auxilie deficientes visuais nas tarefas cotidianas, em primeiro momento, apenas em ambiente indoor.
+</p>
+
+<h3>Objetivo específico</h3>
+<p align="justify">
+Como objetivos específicos, temos: </br>
+Desenvolver uma aplicação para ser utilizada no celular com a finalidade de receber notificações do ESP32;
+</p>
+
 <h2>2. Trabalhos Relacionados</h2>
 <p align="justify">
 Nesta secção iremos apresentar algumas obras relacionadas.
