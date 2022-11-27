@@ -38,6 +38,11 @@ O sensor capta um determinado objeto a uma distância predefinida, e esta inform
 </p>
 
 ### 3.2. Materiais e Métodos
+<p align="justify">
+ESP32-WROOM-32
+HC-SR04 ultasonic distance sensor
+</p>
+
 ### 3.2.2. O Módulo de Hardware
 
 ### 4. Conclusões e Trabalhos Futuros
