@@ -4,7 +4,7 @@ A deficiência visual, em qualquer grau, compromete a capacidade de uma pessoa d
 mover-se no espaço de forma segura e independente. Em 2010,dados do IBGE (Instituto Brasileiro de Geografia e Estatística) a deficiência visual estava presente em 3,4% da população brasileira. 
   Portanto, a Walking Tech visa melhorar a mobilização diária de pessoas com deficiência visual.
 </p>
-<p align=""justify">
+<p align="justify">
 Foi desenvolvido um algoritmo para lidar com a distância entre os objetos e a comunicação com o telefone através de Socket.
 </p>
 <h2>2. Trabalhos Relacionados</h2>
