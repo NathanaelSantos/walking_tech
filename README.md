@@ -39,12 +39,13 @@ O sensor capta um determinado objeto a uma distância predefinida, e esta inform
 
 ### 3.2. Materiais e Métodos
 <p align="justify">
-ESP32-WROOM-32 </br>
-HC-SR04 ultasonic distance sensor
+Os materiais utilizados na eleboração do projecto foram o módulo ESP32-WROOM-32 e o HC-SR04 ultasonic distance sensor. 
 </p>
 
 ### 3.2.2. O Módulo de Hardware
-
+<p align="justify">
+O módulo de hardware utilizado foi o ESP32-WROOM-32. O ESP32-WROOM-32 é um poderoso e genérico módulo Wi-Fi + Bluetooth + Bluetooth LE MCU que visa uma gama de diferentes aplicações. Fizemos uso deste módulo para comunicar o sensor e o celular.
+</p>
 
 ### 4. Conclusões e Trabalhos Futuros
 <p align="justify">
