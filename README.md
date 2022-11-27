@@ -5,7 +5,7 @@ mover-se no espaço de forma segura e independente. Em 2010,dados do IBGE (Insti
   Portanto, a Walking Tech visa melhorar a mobilização diária de pessoas com deficiência visual.
 </p>
 <p align="justify">
-Foi desenvolvido um algoritmo para lidar com a distância entre os objetos e a comunicação com o telefone através de Socket.
+Está sendo desenvolvido um algoritmo para lidar com a distância entre os objetos e a comunicação com o telefone através de Socket.
 </p>
 <h2>2. Trabalhos Relacionados</h2>
 <p align="justify">
