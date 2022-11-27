@@ -17,7 +17,12 @@ Em artigo publicado em 2018 na IEEE Canadian Conference on Electrical & Computer
 
 
 <p align="justify">
-  Os pesquisadores da Universidade de Stanford criaram uma bengala robótica acessível que guia os deficientes visuais. A bengala faz uso de ferramentas de veículos autónomos para identificar obstáculos. Os investigadores esperam que o seu dispositivo seja uma opção acessível e útil para mais de 250 milhões de pessoas com deficiência visual em todo o mundo.
+  Os pesquisadores da Universidade de Stanford criaram uma bengala robótica acessível que guia os deficientes visuais. A bengala faz uso de ferramentas de veículos autónomos para identificar obstáculos. A bengala faz uso de um sensor LIDAR. O LIDAR é a tecnologia baseada em laser usada em alguns carros e aeronaves autônomos que mede a distância até os obstáculos próximos.
+  Os pesquisadores esperam que o seu dispositivo seja uma opção acessível e útil para mais de 250 milhões de pessoas com deficiência visual em todo o mundo.
+</p>
+
+<p align="justify">
+Os pesquisadores: Aline Darc Piculo dos Santos, Fausto Orsi Médola, Milton José Cinelli, Alejandro Rafael García Ramirez e Frode Eika Sandnes publicaram um estudo comparando se as bengalas brancas electrónicas são melhores do que as tradicionais.
 </p>
 
 ## 3. Solução Proposta
@@ -52,6 +57,10 @@ O sensor capta um determinado objeto a uma distância predefinida, e esta inform
  <p align="justify">
   [4] Stanford Researchers Build $400 Self-Navigating Smart Cane. Disponível em: https://hai.stanford.edu/news/stanford-researchers-build-400-self-navigating-smart-cane. Acesso em: 10 nov. 2022. 
   </p>
+  
+ <p align="justify">
+ [5] dos Santos, A.D.P., Medola, F.O., Cinelli, M.J. et al. Are electronic white canes better than traditional canes? A comparative study with blind and blindfolded participants. Univ Access Inf Soc 20, 93–103 (2021). https://doi.org/10.1007/s10209-020-00712-z
+ </p>
  
 
 
