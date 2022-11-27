@@ -25,9 +25,9 @@ Em artigo publicado em 2018 na IEEE Canadian Conference on Electrical & Computer
 Os pesquisadores: Aline Darc Piculo dos Santos, Fausto Orsi Médola, Milton José Cinelli, Alejandro Rafael García Ramirez e Frode Eika Sandnes publicaram um estudo comparando se as bengalas brancas electrónicas são melhores do que as tradicionais.
 </p>
 
-## 3. Solução Proposta
+<h2> 3. Solução Proposta</h2>
 
-### 3.1. Arquitetura da Solução
+<h2> 3.1. Arquitetura da Solução</h2>
 <p align="justify">
 A solução é composta por três módulos: o celular, o módulo de hardware (ESP32-WROOM-32), e o sensor de distância, ilustrado na Figura 01. 
 O sensor capta um determinado objeto a uma distância predefinida, e esta informação é passada para o hardware (ESP32-WROOM-32), que notifica o celular de que há um objeto nas proximidades.Com isso, o mesmo emite vibrações indicado que há um objeto próximo ao usuário.
@@ -37,22 +37,24 @@ O sensor capta um determinado objeto a uma distância predefinida, e esta inform
 <img src="imgs/mdls_comp.png" />
 </p>
 
-### 3.2. Materiais e Métodos
+<h2>3.2. Materiais e Métodos</h2>
+ 
 <p align="justify">
 Os materiais utilizados na eleboração do projecto foram o módulo ESP32-WROOM-32 e o HC-SR04 ultasonic distance sensor. 
 </p>
 
-### 3.2.2. O Módulo de Hardware
+<h2>3.2.2. O Módulo de Hardware</h2>
 <p align="justify">
 O módulo de hardware utilizado foi o ESP32-WROOM-32. O ESP32-WROOM-32 é um poderoso e genérico módulo Wi-Fi + Bluetooth + Bluetooth LE MCU que visa uma gama de diferentes aplicações. Fizemos uso deste módulo para comunicar o sensor e o celular.
 </p>
 
-### 4. Conclusões e Trabalhos Futuros
+<h2>4. Conclusões e Trabalhos Futuros</h2>
+
 <p align="justify">
 Tendo em conta os problemas com a locomoção dos deficientes visuais, este trabalho visa desenvolver uma solução com um custo acessível para essas pessoas. Esta solução, chamada WalkingTeck, consiste num sensor para identificar a distância a objetos, um módulo para gerir os dados recebidos do sensor e enviar este sinal para o telefone para emitir alerta com vibrações.
 </p>
 
-<h2>Referências</h2>
+<h2>4. Referências</h2>
 <p align="justify">
 [1] GIL, M. MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO A DISTÂNCIA C A D E R N O S D A Deficiência Visual. [s.l: s.n.]. Disponível em: http://portal.mec.gov.br/seed/arquivos/pdf/deficienciavisual.pdf. Acessado em: 23/11/2022.
 </p>
