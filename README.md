@@ -59,6 +59,13 @@ Os materiais utilizados na eleboração do projecto foram o módulo ESP32-WROOM-
 <p align="justify">
 O módulo de hardware utilizado foi o ESP32-WROOM-32. O ESP32-WROOM-32 é um poderoso e genérico módulo Wi-Fi + Bluetooth + Bluetooth LE MCU que visa uma gama de diferentes aplicações. Fizemos uso deste módulo para comunicar o sensor e o celular.
 </p>
+<p>
+Fizemos alguns testes em sala com o sensor US-015, para definir a distância crítica a ser adotada, para que o ESP32 pudesse enviar notificação para o smartphone.
+</p>
+
+<p align="center">
+<img src="imgs/Sensor_distancia_US-015.jpg" whidth= "500px" height= "500px"/>
+</p>
 
 <h2>4. Conclusões e Trabalhos Futuros</h2>
 
